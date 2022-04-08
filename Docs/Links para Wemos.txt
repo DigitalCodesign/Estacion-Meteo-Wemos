@@ -1,0 +1,2 @@
+https://www.prometec.net/esp8266-pluggin-arduino-ide/
+https://www.prometec.net/wemos-d1-esp8266-wifi/
