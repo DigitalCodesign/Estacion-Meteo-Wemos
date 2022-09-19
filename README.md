@@ -1,10 +1,11 @@
-# Estación Meteoroligca Cefiro
+# Estación Meteoroligca
 
-Proyecto desarrollado para el IES Güimar para implementar una estación meteorológica con volcado de datos a la red a través del servicio web de Thingspeak y su API de acceso gratuito.
+Proyecto desarrollado para implementar una estación meteorológica con volcado de datos a la red a través del servicio web de Thingspeak y su API de acceso gratuito.
 
 ## Autores: 
 - José Luis González de Chávez 
 - Augusto Samuel Hernández Martín
+- Miqueas Z. Fortes
 
 ## Materiales
 - BMP280 I2C
@@ -38,7 +39,7 @@ Debe instalarse lo siguiente:
 
 - Placas Wemos D1 desde el Gestor de Placas de Arduino, añadiendo previamente el enlace de consulta: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 - Librería DHT.h desarrollada por Adafruit (disponible de forma oficial en Gestor de Librerías)
-- Librería BMP280_DEV (disponible en https://github.com/MartinL1/BMP280_DEV)
+- Librería [BMP280_DEV](disponible en https://github.com/MartinL1/BMP280_DEV)
 - Librería LiquidCrystal I2C disponible en el Gestor de Librerias
 
 ## Tools
