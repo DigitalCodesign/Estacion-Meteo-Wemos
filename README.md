@@ -1,4 +1,4 @@
-# Estación Meteoroligca
+# Estación Meteorológica con ThingSpeak
 
 Proyecto desarrollado para implementar una estación meteorológica con volcado de datos a la red a través del servicio web de Thingspeak y su API de acceso gratuito.
 
