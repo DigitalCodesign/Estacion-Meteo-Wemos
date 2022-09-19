@@ -5,7 +5,7 @@ const char* ssid = "Redmi Note 9S";
 const char* password = "*******"; 
 
 const char* host = "api.thingspeak.com";
-String apiKey = "M0CHTB0UMQ8OCQO0"; //La clave API para hacer log-in en el server
+String apiKey = "M0CHTB0UMQ8OC***"; //La clave API para hacer log-in en el server
 
 void setup() {
 Serial.begin(115200);

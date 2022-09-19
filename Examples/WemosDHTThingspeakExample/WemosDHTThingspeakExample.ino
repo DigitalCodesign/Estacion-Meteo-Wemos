@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 
 // replace with your channel’s thingspeak API key and your SSID and password
-String apiKey = "9MUX1X528WM6JDUP";
-const char* ssid = "Orange-DE5A";
+String apiKey = "9MUX1X528WM6JD***";
+const char* ssid = "Orange-DE**";
 const char* password = "*******";
 const char* server = "api.thingspeak.com";
 

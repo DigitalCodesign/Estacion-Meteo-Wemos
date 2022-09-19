@@ -3,7 +3,9 @@
    en tiempo real a través de un Display 16x02 I2C.
    Emplea un BMP280 (Tª, P(hPa) y Altitud (m)) y un DHT22 (Tª y H).
    Autor: Augusto Samuel Hernández Martín
-   GitHub: AugustoS97 (https://github.com/AugustoS97)
+          Miqueas Z. Fortes
+          José Luis González
+   GitHub: DigitalCodesign (https://github.com/DigitalCodesign)
 */
 
 /*  PINOUT MONTAJE EN WEMOS D1 R1 (PCB TIPO ARDUINO UNO)
@@ -37,9 +39,9 @@
 #define DHTTYPE DHT22
 
 // Reemplaza con la clave API de tu canal de thingspeak y tu SSID y password
-String apiKey = "M0CHTB0UMQ8OCQO0";
-const char* ssid = "Orange-DE5A";
-const char* password = "25A4C36E";
+String apiKey = "M0CHTB0UMQ8OC***";
+const char* ssid = "Orange-DE**";
+const char* password = "*********";
 const char* server = "api.thingspeak.com";
 
 //Variables para el BMP
